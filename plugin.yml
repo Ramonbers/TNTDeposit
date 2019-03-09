@@ -1,0 +1,8 @@
+main: me.OldSkoolDad.tnt.Main
+version: 1.0
+name: TNTDeposit
+depend: [Factions]
+
+commands:
+  tnt:
+    description: Main TNT command.
